@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src","test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/ando/Asztal/Andó Attila/Tesztelés/Library/JUnit5/junit-jupiter-api-5.9.2.jar",
+        "/home/ando/Asztal/Andó Attila/Tesztelés/Library/JUnit5/junit-platform-console-standalone-1.9.2.jar",
+        "c:\\Users\\ottob\\OneDrive\\Asztali gép\\Library\\JUnit5\\junit-jupiter-api-5.9.2.jar",
+        "c:\\Users\\ottob\\OneDrive\\Asztali gép\\Library\\JUnit5\\junit-platform-console-standalone-1.9.2.jar"
+    ]
+}
